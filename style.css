@@ -653,14 +653,14 @@ section{
 
 .footer .box-container .box a i{
     padding-right: .5rem;
-    color: #000;
+    color: blanchedalmond;
 }
 
 .footer .box-container .box form input[type="email"]{
     width: 100%;
     padding:1rem 1.2rem;
     font-size: 1.6rem;
-    color: #000;
+    color: #fff;
     margin: 1rem 0;
     text-transform: none;
 }
